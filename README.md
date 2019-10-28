@@ -31,6 +31,12 @@ The scaffolding of this project is based on the [Simple Boilerplate Template](ht
     ```
     npm start
     ```
+   
+4. Start your app within development cycle (nodejs servercode hot-reload)
+
+    ```
+   npm run dev
+   ```
 
 ## Testing
 
